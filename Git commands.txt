@@ -1,0 +1,7 @@
+1 These command is use to clone a repository
+
+2 -  git https://github.com/Maheshbot1/devops-git-1.git
+
+3- git add--all
+
+4- git commit -m"commit message"
