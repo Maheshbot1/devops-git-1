@@ -9,3 +9,5 @@
 git push "repo link"
 
 git pull "repo link"
+
+git init
