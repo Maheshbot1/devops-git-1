@@ -5,3 +5,7 @@
 3- git add--all
 
 4- git commit -m"commit message"
+
+git push "repo link"
+
+git pull "repo link"
